@@ -1,0 +1,301 @@
+Customer ID,Customer Name,Age Group,Gender,Region,Product Category,Sales Amount,Profit,Purchase Date
+CUST0001,Courtney Delgado,65+,Male,East,Home & Kitchen,812.57,159.9,2023-02-01
+CUST0002,Christine Gardner,65+,Female,West,Health & Beauty,916.27,135.5,2023-07-17
+CUST0003,Tina Arnold,55-64,Male,South,Health & Beauty,577.95,189.93,2023-01-25
+CUST0004,Brittany Taylor,55-64,Male,Central,Sports,817.86,7.6,2023-02-22
+CUST0005,Sarah Blair,35-44,Male,North,Health & Beauty,522.24,32.04,2023-01-18
+CUST0006,Colton Wilson,35-44,Female,East,Health & Beauty,657.01,60.52,2023-08-29
+CUST0007,Jennifer Davis,55-64,Female,East,Clothing,301.94,45.01,2023-09-14
+CUST0008,Cody Myers,55-64,Female,West,Home & Kitchen,697.38,130.11,2023-12-27
+CUST0009,Richard Brown,18-24,Female,North,Home & Kitchen,778.98,54.86,2023-04-19
+CUST0010,Joseph Anderson,45-54,Male,North,Electronics,854.3,130.52,2023-07-08
+CUST0011,Arthur Dalton,55-64,Female,East,Home & Kitchen,280.31,33.87,2023-08-04
+CUST0012,Kathleen Davenport,45-54,Female,North,Home & Kitchen,886.09,172.98,2023-01-24
+CUST0013,Justin Mejia,35-44,Male,East,Home & Kitchen,942.34,17.17,2023-11-22
+CUST0014,Mark Mcbride,35-44,Female,South,Home & Kitchen,96.97,38.51,2023-01-23
+CUST0015,Amy Rodriguez,65+,Female,East,Health & Beauty,619.35,42.55,2023-12-06
+CUST0016,Tanya Miller,45-54,Male,Central,Sports,452.83,94.33,2023-05-16
+CUST0017,Taylor Robinson,18-24,Female,West,Health & Beauty,398.96,46.36,2023-08-16
+CUST0018,George Watson,25-34,Male,East,Clothing,662.27,187.0,2023-07-16
+CUST0019,Julie Fleming,45-54,Female,West,Sports,491.74,68.57,2023-12-26
+CUST0020,Steven Collins,35-44,Male,North,Sports,897.42,34.85,2023-10-15
+CUST0021,Brent Obrien,55-64,Female,Central,Home & Kitchen,804.14,130.63,2023-07-28
+CUST0022,Donna Chan,45-54,Female,East,Health & Beauty,561.16,141.55,2023-08-30
+CUST0023,Susan Phillips,45-54,Male,South,Electronics,164.59,12.21,2023-12-20
+CUST0024,Peter Saunders,55-64,Male,South,Health & Beauty,630.28,124.18,2023-08-03
+CUST0025,April Moore,45-54,Male,Central,Electronics,523.51,92.0,2023-11-29
+CUST0026,David Collins,45-54,Male,North,Clothing,755.57,75.7,2023-01-20
+CUST0027,Craig Salazar,55-64,Female,West,Clothing,680.08,93.51,2023-09-25
+CUST0028,Jennifer Gardner,35-44,Female,West,Clothing,744.31,145.44,2023-05-01
+CUST0029,Jennifer Davis,35-44,Male,East,Toys,414.95,81.58,2023-03-14
+CUST0030,Christy Maynard,65+,Female,West,Toys,547.68,193.91,2023-03-05
+CUST0031,Richard Duncan,18-24,Male,Central,Toys,191.21,197.18,2023-04-03
+CUST0032,Janet Nguyen,35-44,Female,South,Health & Beauty,488.04,64.42,2023-01-22
+CUST0033,Miranda Gordon,25-34,Male,Central,Toys,416.72,186.64,2023-11-22
+CUST0034,Philip Marshall,25-34,Male,North,Electronics,504.0,138.17,2023-05-10
+CUST0035,Trevor Fuentes,25-34,Female,Central,Clothing,417.18,83.19,2023-07-25
+CUST0036,Mrs. Destiny Kim,35-44,Female,East,Sports,183.26,23.43,2023-09-11
+CUST0037,Stephen Soto,45-54,Female,North,Electronics,504.1,189.47,2023-11-30
+CUST0038,Timothy Roberts,45-54,Female,South,Toys,348.4,84.6,2023-07-10
+CUST0039,Christina Grant,18-24,Female,East,Electronics,133.51,134.75,2023-10-12
+CUST0040,Stephanie White,18-24,Female,Central,Toys,99.97,86.82,2023-01-24
+CUST0041,Megan Thomas,65+,Male,Central,Toys,526.36,179.25,2023-10-06
+CUST0042,Ryan Romero,35-44,Female,North,Health & Beauty,746.98,180.32,2023-12-10
+CUST0043,Jacob Smith,55-64,Female,Central,Electronics,114.59,134.97,2023-06-28
+CUST0044,Shannon Cox,45-54,Female,South,Clothing,136.86,96.93,2023-04-08
+CUST0045,Benjamin Coffey,18-24,Female,South,Home & Kitchen,789.34,157.21,2023-09-21
+CUST0046,Jennifer Rice,65+,Female,West,Health & Beauty,266.01,52.97,2023-07-26
+CUST0047,Dale Jones,18-24,Male,North,Clothing,57.49,143.54,2023-03-18
+CUST0048,Julia Jones,18-24,Female,East,Health & Beauty,837.19,68.0,2023-07-02
+CUST0049,Lawrence Maddox,55-64,Male,Central,Sports,173.73,37.16,2023-01-05
+CUST0050,Daniel Lopez,65+,Male,South,Clothing,424.06,172.58,2023-02-08
+CUST0051,Lisa Smith,35-44,Male,East,Toys,440.34,72.88,2023-08-28
+CUST0052,Brian Nixon,25-34,Female,South,Electronics,116.83,114.02,2023-05-05
+CUST0053,Mrs. Carrie Lee,25-34,Male,South,Home & Kitchen,708.65,97.57,2023-07-19
+CUST0054,Heidi Wheeler,55-64,Male,Central,Electronics,834.99,163.64,2023-07-25
+CUST0055,Christian Figueroa,18-24,Male,East,Toys,728.72,80.15,2023-02-28
+CUST0056,Kelly Jones,45-54,Female,South,Home & Kitchen,426.37,80.8,2023-02-28
+CUST0057,Connie Bryan,35-44,Male,South,Home & Kitchen,963.8,78.69,2023-11-11
+CUST0058,Thomas Jimenez,55-64,Female,East,Home & Kitchen,979.21,26.48,2023-03-15
+CUST0059,Kristin Graham,55-64,Female,South,Health & Beauty,922.45,15.01,2023-01-16
+CUST0060,Christopher Good,45-54,Female,Central,Electronics,282.94,185.91,2023-05-08
+CUST0061,Robin Martin,55-64,Female,East,Clothing,717.14,113.17,2023-12-04
+CUST0062,John Hamilton,25-34,Female,North,Sports,63.17,80.14,2023-04-18
+CUST0063,Vanessa Williams MD,65+,Male,South,Health & Beauty,420.12,63.43,2023-11-13
+CUST0064,Tyler Hart,35-44,Male,Central,Electronics,538.68,35.48,2023-04-30
+CUST0065,Mark Wood,18-24,Male,East,Home & Kitchen,364.61,167.86,2023-07-12
+CUST0066,Donna Washington,25-34,Male,Central,Home & Kitchen,543.75,142.71,2023-05-19
+CUST0067,Steven Thomas,18-24,Female,Central,Clothing,365.6,105.23,2023-09-05
+CUST0068,Robert Hernandez,25-34,Female,South,Home & Kitchen,430.92,149.36,2023-05-16
+CUST0069,Isaiah Maddox,18-24,Female,Central,Electronics,913.36,107.04,2023-10-17
+CUST0070,Tracy Jimenez,25-34,Female,Central,Electronics,234.1,190.94,2023-10-30
+CUST0071,Dr. Andrew Hines,35-44,Female,West,Home & Kitchen,543.49,164.05,2023-12-06
+CUST0072,Joseph Sutton,25-34,Female,Central,Clothing,683.14,128.6,2023-09-01
+CUST0073,Brandon Sullivan,45-54,Female,West,Sports,652.41,71.6,2023-04-02
+CUST0074,Todd Hodge,25-34,Male,North,Electronics,502.11,80.48,2023-04-23
+CUST0075,Nancy Delgado,55-64,Male,West,Home & Kitchen,109.86,195.18,2023-10-08
+CUST0076,Amy Floyd,35-44,Female,South,Toys,176.34,71.51,2023-06-03
+CUST0077,Richard Davis,55-64,Male,Central,Toys,726.11,18.9,2023-06-25
+CUST0078,Sheila Benitez,18-24,Male,North,Sports,309.29,153.98,2023-09-20
+CUST0079,Louis Sherman,25-34,Male,Central,Home & Kitchen,320.46,24.85,2023-04-24
+CUST0080,Matthew Mitchell,45-54,Female,North,Electronics,501.74,43.72,2023-04-07
+CUST0081,Troy Parks,65+,Female,East,Toys,706.54,97.77,2023-10-16
+CUST0082,William Johnson,55-64,Male,North,Toys,835.92,173.33,2023-11-13
+CUST0083,Caitlin Frazier,18-24,Female,East,Sports,720.13,138.87,2023-06-20
+CUST0084,Kevin Cherry,18-24,Female,Central,Health & Beauty,240.46,100.69,2023-10-04
+CUST0085,Danielle Martin,55-64,Male,West,Sports,681.06,195.55,2023-11-24
+CUST0086,Gregory Russell,25-34,Male,South,Home & Kitchen,516.99,161.93,2023-11-09
+CUST0087,Kristen Murphy,25-34,Male,Central,Health & Beauty,283.12,154.53,2023-03-03
+CUST0088,Bradley Perez,65+,Female,North,Sports,623.45,152.8,2023-04-12
+CUST0089,Angela Lambert,25-34,Female,East,Clothing,882.25,68.91,2023-12-15
+CUST0090,Katherine Johnson,18-24,Male,West,Health & Beauty,192.37,142.54,2023-05-29
+CUST0091,Trevor Diaz,35-44,Female,North,Home & Kitchen,675.54,177.96,2023-03-17
+CUST0092,Wanda Miller,55-64,Male,West,Sports,272.76,83.48,2023-04-19
+CUST0093,Christina Flores,55-64,Male,West,Toys,132.11,148.07,2023-06-27
+CUST0094,Roger Walker,18-24,Male,Central,Home & Kitchen,787.46,104.42,2023-07-17
+CUST0095,Jason Munoz,35-44,Male,West,Electronics,449.07,39.73,2023-05-02
+CUST0096,Joshua Johnson,35-44,Male,West,Toys,394.74,71.36,2023-07-03
+CUST0097,Rachel Sims,25-34,Female,East,Toys,72.53,39.47,2023-02-20
+CUST0098,Heather Johnson,65+,Male,East,Health & Beauty,423.01,151.32,2023-04-06
+CUST0099,Devin Hansen,55-64,Male,South,Clothing,505.12,53.92,2023-03-24
+CUST0100,Barbara Smith,18-24,Female,South,Electronics,587.58,85.48,2023-12-17
+CUST0101,David Owen,18-24,Female,East,Clothing,641.77,88.82,2023-07-01
+CUST0102,Adam Nunez,18-24,Male,West,Electronics,120.49,83.64,2023-10-19
+CUST0103,Michael Evans,45-54,Female,North,Clothing,184.77,144.49,2023-01-20
+CUST0104,Mr. Christopher Williams,65+,Female,East,Sports,213.2,79.59,2023-12-25
+CUST0105,Kelly Russell,45-54,Female,Central,Health & Beauty,754.45,198.03,2023-10-26
+CUST0106,Michael Haley,18-24,Male,West,Home & Kitchen,501.46,10.0,2023-10-01
+CUST0107,Charles Contreras,45-54,Female,Central,Toys,240.17,95.54,2023-04-22
+CUST0108,Sara Ramirez,25-34,Male,South,Electronics,994.34,189.58,2023-09-17
+CUST0109,Melissa Roberts,65+,Male,East,Clothing,744.43,130.75,2023-04-20
+CUST0110,Richard Myers,65+,Female,North,Clothing,384.47,140.87,2023-05-18
+CUST0111,Jennifer Taylor,18-24,Female,East,Clothing,291.57,93.93,2023-02-20
+CUST0112,Charles Howell,25-34,Female,South,Electronics,59.43,14.96,2023-05-16
+CUST0113,Todd Daniels,25-34,Male,South,Clothing,431.52,48.2,2023-12-29
+CUST0114,Linda Terry,45-54,Female,North,Electronics,136.17,149.72,2023-01-01
+CUST0115,Geoffrey Richards,45-54,Female,North,Sports,946.17,143.09,2023-12-16
+CUST0116,Sean Cannon,35-44,Male,Central,Toys,238.36,22.28,2023-08-03
+CUST0117,Nicole Potts,35-44,Female,North,Sports,139.92,177.33,2023-08-18
+CUST0118,Brian Harrison,35-44,Female,South,Toys,61.4,153.69,2023-07-07
+CUST0119,Logan Martin,55-64,Female,East,Home & Kitchen,718.95,126.21,2023-08-25
+CUST0120,Robin Perez,25-34,Male,East,Toys,780.82,9.32,2023-08-30
+CUST0121,David Williams,35-44,Female,North,Home & Kitchen,699.56,72.39,2023-07-12
+CUST0122,Eileen Lewis,35-44,Female,East,Health & Beauty,767.3,12.41,2023-07-20
+CUST0123,Mr. David Smith,35-44,Male,East,Health & Beauty,642.82,32.8,2023-06-01
+CUST0124,Erica Moore,55-64,Female,West,Sports,915.41,15.38,2023-06-18
+CUST0125,Jennifer Nelson,35-44,Male,East,Clothing,778.81,103.48,2023-06-18
+CUST0126,Bethany Andrews,35-44,Female,North,Toys,73.51,151.68,2023-05-07
+CUST0127,Michael Morales,25-34,Male,East,Electronics,598.52,71.77,2023-09-15
+CUST0128,Daniel Jacobs,55-64,Male,South,Electronics,812.93,187.88,2023-11-16
+CUST0129,Jason Daniels,55-64,Male,West,Clothing,711.11,145.61,2023-12-29
+CUST0130,Eugene Miles,45-54,Female,East,Home & Kitchen,892.99,142.58,2023-07-11
+CUST0131,James Higgins,25-34,Male,Central,Toys,306.68,125.39,2023-11-13
+CUST0132,Stephanie Freeman,45-54,Male,South,Health & Beauty,854.35,104.73,2023-12-13
+CUST0133,Mary Nichols,45-54,Male,South,Toys,679.48,94.58,2023-12-25
+CUST0134,David Turner,65+,Female,East,Electronics,246.01,77.9,2023-11-24
+CUST0135,Kim Spears,18-24,Male,East,Health & Beauty,468.66,187.17,2023-07-18
+CUST0136,Edward Beck,25-34,Female,West,Home & Kitchen,117.48,137.34,2023-05-27
+CUST0137,Alexander Gardner,18-24,Male,East,Sports,831.98,32.09,2023-08-23
+CUST0138,Dylan Sanchez,65+,Female,Central,Sports,976.22,163.15,2023-05-31
+CUST0139,Krista Turner,65+,Female,Central,Sports,408.39,18.27,2023-06-24
+CUST0140,Gary Williams,18-24,Female,West,Clothing,705.1,27.49,2023-02-25
+CUST0141,Taylor Moore,18-24,Female,West,Sports,366.52,36.94,2023-10-15
+CUST0142,Pamela Peters,45-54,Male,East,Home & Kitchen,582.44,64.02,2023-10-07
+CUST0143,Stephanie Brown,18-24,Female,East,Clothing,559.18,164.65,2023-01-27
+CUST0144,Dr. John Jefferson,18-24,Male,Central,Health & Beauty,470.55,61.22,2023-05-17
+CUST0145,Melissa Mcgee,65+,Female,West,Health & Beauty,837.68,193.52,2023-07-12
+CUST0146,Danielle Rowe,45-54,Female,Central,Clothing,238.52,168.34,2023-11-12
+CUST0147,Lori Mejia,45-54,Male,North,Sports,341.85,120.97,2023-02-24
+CUST0148,Joseph Spencer,25-34,Female,East,Toys,94.11,37.82,2023-12-20
+CUST0149,Austin Ayala,65+,Male,Central,Health & Beauty,450.19,60.4,2023-10-19
+CUST0150,Patrick Sweeney,45-54,Female,North,Home & Kitchen,873.84,101.64,2023-05-10
+CUST0151,Jordan Pierce,35-44,Female,North,Home & Kitchen,91.13,88.95,2023-12-14
+CUST0152,Donald Benson,18-24,Male,East,Health & Beauty,979.74,29.31,2023-05-18
+CUST0153,Beth Jenkins,65+,Male,North,Electronics,917.77,161.1,2023-08-01
+CUST0154,Rebecca Bowman,45-54,Male,West,Clothing,825.86,68.46,2023-03-03
+CUST0155,Margaret Joyce,45-54,Male,East,Toys,326.13,112.66,2023-09-16
+CUST0156,Ronald Farley,55-64,Male,East,Sports,713.75,88.31,2023-02-01
+CUST0157,Tammy Johnson,25-34,Female,South,Electronics,138.81,171.02,2023-03-09
+CUST0158,David Macdonald,55-64,Male,South,Toys,374.39,17.27,2023-07-03
+CUST0159,Gail Myers,18-24,Female,East,Sports,491.93,158.63,2023-02-23
+CUST0160,Terry Hansen,25-34,Female,Central,Sports,163.83,54.94,2023-01-09
+CUST0161,Joseph Barker,35-44,Male,East,Clothing,861.33,132.36,2023-05-03
+CUST0162,Terry King,18-24,Female,North,Sports,619.16,15.92,2023-03-18
+CUST0163,Jordan Gomez,25-34,Female,West,Clothing,94.14,83.23,2023-12-14
+CUST0164,James Graham,35-44,Female,North,Home & Kitchen,565.16,24.53,2023-07-28
+CUST0165,Taylor Gutierrez,35-44,Male,East,Sports,560.77,5.06,2023-07-20
+CUST0166,Alexis Brown,45-54,Female,West,Electronics,750.72,57.66,2023-01-02
+CUST0167,Caroline Lewis,35-44,Female,East,Electronics,368.27,61.47,2023-01-22
+CUST0168,Shelby Armstrong,18-24,Male,West,Sports,995.28,124.51,2023-11-04
+CUST0169,Rhonda Robles,45-54,Male,North,Health & Beauty,584.17,119.62,2023-04-05
+CUST0170,Jessica Moore,55-64,Female,Central,Electronics,269.95,35.58,2023-12-30
+CUST0171,Kristina Hendricks,65+,Female,Central,Sports,514.69,91.74,2023-04-28
+CUST0172,Brittany Mendoza,55-64,Male,North,Sports,415.9,69.77,2023-06-30
+CUST0173,Charles Stevens,65+,Female,North,Sports,396.44,61.15,2023-04-06
+CUST0174,Jessica Hunter,25-34,Female,West,Clothing,903.9,45.58,2023-05-17
+CUST0175,Kyle Cook,25-34,Male,Central,Electronics,457.21,151.18,2023-05-12
+CUST0176,Katherine Mcfarland,18-24,Female,North,Electronics,616.89,160.25,2023-01-05
+CUST0177,Christine Powell,35-44,Female,Central,Toys,363.39,181.61,2023-12-11
+CUST0178,Patricia Obrien,55-64,Female,West,Electronics,602.23,161.43,2023-05-03
+CUST0179,Savannah Simmons,55-64,Male,East,Toys,427.01,29.55,2023-12-23
+CUST0180,Jennifer Stein,45-54,Male,North,Sports,920.42,122.51,2023-08-20
+CUST0181,Nicole Giles,65+,Male,West,Toys,837.8,117.59,2023-05-04
+CUST0182,Amber Medina,18-24,Male,Central,Home & Kitchen,395.85,164.41,2023-02-13
+CUST0183,Paul Phillips,18-24,Female,South,Clothing,989.15,102.71,2023-09-14
+CUST0184,Christopher Barajas,45-54,Male,North,Sports,444.79,133.73,2023-04-18
+CUST0185,Shelly Hughes,25-34,Female,South,Home & Kitchen,473.06,96.87,2023-03-16
+CUST0186,Kimberly Hernandez,35-44,Male,West,Toys,764.72,128.27,2023-04-20
+CUST0187,Louis Edwards,55-64,Male,East,Electronics,701.31,59.51,2023-08-21
+CUST0188,Ian Clark,25-34,Female,South,Sports,448.81,61.64,2023-07-24
+CUST0189,Mary Mills,55-64,Male,North,Home & Kitchen,981.46,197.75,2023-12-05
+CUST0190,John Phillips,18-24,Male,West,Electronics,953.74,75.46,2023-01-18
+CUST0191,Mary Nguyen DDS,35-44,Male,Central,Health & Beauty,373.62,41.17,2023-07-01
+CUST0192,Julie Hale,55-64,Male,North,Toys,948.59,114.35,2023-10-20
+CUST0193,Andrea Williams,35-44,Male,Central,Health & Beauty,211.55,121.28,2023-09-16
+CUST0194,Kelly Walker,65+,Female,North,Health & Beauty,76.27,64.13,2023-06-15
+CUST0195,Alexis Jones,65+,Male,North,Electronics,601.75,177.12,2023-07-17
+CUST0196,Dennis Freeman,25-34,Male,Central,Home & Kitchen,559.78,20.78,2023-02-26
+CUST0197,Mr. Derrick Johnson,25-34,Male,Central,Health & Beauty,925.3,107.06,2023-12-13
+CUST0198,Gloria Gilbert,55-64,Male,Central,Toys,774.03,37.84,2023-10-12
+CUST0199,Troy Gomez,55-64,Female,East,Home & Kitchen,731.41,138.2,2023-09-24
+CUST0200,Luis Rasmussen,65+,Female,East,Toys,282.98,15.61,2023-04-11
+CUST0201,Christopher Martinez,25-34,Male,South,Electronics,840.05,31.51,2023-01-07
+CUST0202,Shannon Tyler,55-64,Male,West,Electronics,567.97,89.27,2023-03-01
+CUST0203,Frederick Davis,18-24,Female,North,Toys,994.06,142.12,2023-02-25
+CUST0204,Maria Williams,55-64,Female,East,Home & Kitchen,262.89,116.39,2023-11-24
+CUST0205,Anita Nelson,25-34,Female,North,Home & Kitchen,764.95,168.97,2023-09-21
+CUST0206,Aaron Alexander,55-64,Male,West,Electronics,132.88,180.36,2023-02-01
+CUST0207,Sarah Jones,25-34,Female,West,Sports,457.1,192.81,2023-12-28
+CUST0208,Michelle Bridges,35-44,Female,East,Clothing,160.64,54.06,2023-10-23
+CUST0209,Timothy Garza,25-34,Female,East,Sports,636.45,108.16,2023-05-03
+CUST0210,Steven Williams,25-34,Male,West,Clothing,676.7,65.98,2023-08-25
+CUST0211,Philip Hodge,18-24,Female,North,Sports,793.9,35.55,2023-11-10
+CUST0212,Gwendolyn Yang,45-54,Male,Central,Electronics,465.91,199.04,2023-06-14
+CUST0213,Katherine Johnson,35-44,Male,East,Toys,251.89,32.05,2023-09-16
+CUST0214,Laura Huerta,45-54,Male,East,Toys,52.34,106.61,2023-05-20
+CUST0215,Vanessa Yu,25-34,Male,West,Clothing,461.11,70.41,2023-10-27
+CUST0216,Mark Wells,25-34,Male,South,Electronics,977.09,93.14,2023-08-31
+CUST0217,William Terrell,55-64,Female,North,Home & Kitchen,880.57,84.74,2023-08-14
+CUST0218,Patricia Adams,55-64,Male,West,Home & Kitchen,898.64,88.83,2023-09-22
+CUST0219,Tammy Anderson,35-44,Female,North,Sports,900.42,158.57,2023-08-25
+CUST0220,Rhonda Jones,55-64,Male,West,Sports,523.37,68.45,2023-09-29
+CUST0221,Gregory Flynn,45-54,Female,North,Electronics,763.04,196.39,2023-10-26
+CUST0222,Brittany Bush,55-64,Male,North,Electronics,419.61,117.63,2023-06-10
+CUST0223,Michael Taylor,65+,Male,West,Sports,677.3,130.02,2023-08-20
+CUST0224,Caitlin White,45-54,Female,North,Sports,558.09,52.34,2023-11-14
+CUST0225,Stephanie Ford,25-34,Male,West,Electronics,450.4,131.59,2023-02-06
+CUST0226,Jason Shaw,25-34,Female,North,Clothing,353.07,69.85,2023-01-24
+CUST0227,Jonathan Martinez,18-24,Female,West,Sports,367.89,6.83,2023-08-04
+CUST0228,Teresa Thomas,45-54,Female,North,Toys,294.25,165.52,2023-01-13
+CUST0229,Alicia Stanley,25-34,Female,East,Home & Kitchen,371.05,194.84,2023-03-20
+CUST0230,Anthony Miranda,35-44,Male,West,Home & Kitchen,181.26,66.43,2023-03-20
+CUST0231,Shane Romero,25-34,Female,North,Health & Beauty,382.12,127.46,2023-04-16
+CUST0232,Michael Hancock,55-64,Male,North,Clothing,350.14,148.82,2023-05-09
+CUST0233,Susan Carlson,18-24,Female,South,Home & Kitchen,943.53,52.45,2023-07-21
+CUST0234,Joshua Griffin,55-64,Male,Central,Toys,726.31,130.6,2023-12-08
+CUST0235,Kelly Byrd,55-64,Male,South,Electronics,983.16,135.26,2023-11-13
+CUST0236,Meredith Newton,35-44,Female,North,Electronics,876.32,169.27,2023-06-30
+CUST0237,Sarah Griffin,35-44,Female,South,Electronics,989.97,156.12,2023-07-23
+CUST0238,William Evans,35-44,Male,Central,Toys,546.71,154.89,2023-09-28
+CUST0239,Sharon Frost,25-34,Female,East,Home & Kitchen,91.82,164.49,2023-10-06
+CUST0240,Amanda Hudson,35-44,Female,East,Toys,173.75,14.0,2023-02-16
+CUST0241,Candace Burton,25-34,Male,South,Clothing,979.81,47.62,2023-09-09
+CUST0242,Benjamin Fowler,65+,Female,Central,Health & Beauty,238.34,80.01,2023-06-17
+CUST0243,Frances Walker,65+,Male,South,Health & Beauty,477.47,16.24,2023-06-16
+CUST0244,Angela Bennett,45-54,Male,East,Clothing,74.69,20.6,2023-09-05
+CUST0245,Paul Thomas,18-24,Female,North,Sports,77.69,58.78,2023-10-08
+CUST0246,Rebecca Schroeder,25-34,Female,West,Electronics,346.23,184.21,2023-12-10
+CUST0247,Amanda Gallagher,25-34,Male,Central,Health & Beauty,587.19,18.54,2023-07-23
+CUST0248,Vanessa Moss,25-34,Female,East,Clothing,641.35,197.39,2023-09-09
+CUST0249,Charles Hardy,25-34,Female,South,Toys,59.99,184.92,2023-05-09
+CUST0250,Diane Riley,25-34,Male,West,Health & Beauty,472.92,66.13,2023-08-31
+CUST0251,Matthew Sexton,35-44,Male,East,Sports,720.45,81.54,2023-01-19
+CUST0252,Kenneth Smith,55-64,Male,East,Toys,515.55,170.86,2023-12-30
+CUST0253,Martha Dixon,35-44,Female,East,Sports,252.37,124.83,2023-02-01
+CUST0254,Wanda Sellers,25-34,Female,South,Electronics,638.12,5.68,2023-11-08
+CUST0255,Robert Bryant,25-34,Male,South,Sports,936.27,75.61,2023-02-12
+CUST0256,Nicole Harding,55-64,Female,North,Electronics,386.03,87.56,2023-09-13
+CUST0257,Tyrone Blake,45-54,Male,West,Sports,247.08,35.35,2023-01-19
+CUST0258,Julie Murray,25-34,Male,West,Toys,337.33,133.59,2023-10-01
+CUST0259,Casey Williams,18-24,Female,Central,Sports,990.17,191.63,2023-11-24
+CUST0260,Suzanne Anderson,18-24,Female,East,Sports,993.27,145.37,2023-11-29
+CUST0261,Wendy Weaver,55-64,Male,Central,Electronics,570.34,146.66,2023-04-11
+CUST0262,Justin Mcmahon,55-64,Female,West,Home & Kitchen,513.03,40.76,2023-04-16
+CUST0263,Eric Norton,35-44,Male,Central,Toys,635.29,53.54,2023-12-14
+CUST0264,Kurt Evans,35-44,Female,East,Clothing,829.61,146.5,2023-08-28
+CUST0265,Jessica Snow,25-34,Male,Central,Clothing,617.61,12.85,2023-08-01
+CUST0266,Kimberly Camacho,18-24,Female,South,Electronics,81.42,63.73,2023-05-25
+CUST0267,Stephanie Parsons,55-64,Male,West,Sports,807.66,57.14,2023-02-16
+CUST0268,Mr. Richard Thompson MD,55-64,Female,East,Toys,443.09,129.1,2023-02-25
+CUST0269,Phillip Johnson,25-34,Male,West,Clothing,406.65,134.46,2023-02-16
+CUST0270,Timothy Dunn,55-64,Female,South,Clothing,230.69,159.57,2023-04-20
+CUST0271,Elizabeth Figueroa,25-34,Female,Central,Sports,965.31,123.81,2023-11-04
+CUST0272,Fred Lewis,25-34,Male,South,Toys,959.71,89.49,2023-01-15
+CUST0273,Miss Audrey Dominguez,45-54,Female,North,Toys,980.79,105.58,2023-04-09
+CUST0274,Rita Fox,45-54,Male,West,Home & Kitchen,987.74,102.41,2023-10-16
+CUST0275,Sylvia Pineda,18-24,Male,North,Health & Beauty,846.34,20.26,2023-04-10
+CUST0276,Michael Browning,35-44,Female,North,Toys,630.92,122.12,2023-09-10
+CUST0277,Samantha Thomas,35-44,Male,East,Toys,297.73,120.7,2023-09-26
+CUST0278,Mary Thompson,35-44,Female,South,Home & Kitchen,656.07,71.41,2023-03-25
+CUST0279,Meghan Stanley,65+,Male,South,Clothing,811.17,171.28,2023-05-13
+CUST0280,Robert Morales,25-34,Female,West,Home & Kitchen,791.98,95.95,2023-06-07
+CUST0281,Jenna Stephenson,65+,Female,North,Toys,142.65,145.87,2023-07-25
+CUST0282,Kelly Hansen,45-54,Female,Central,Toys,498.11,97.76,2023-04-24
+CUST0283,Victor Matthews,65+,Male,Central,Toys,270.61,171.37,2023-07-18
+CUST0284,Christopher Malone,35-44,Male,South,Clothing,358.41,162.37,2023-10-13
+CUST0285,Rebecca Johnson,35-44,Male,South,Home & Kitchen,956.16,56.13,2023-05-16
+CUST0286,Paul Kline,35-44,Female,West,Sports,930.99,176.1,2023-07-21
+CUST0287,Anna Park,35-44,Female,South,Home & Kitchen,711.13,186.63,2023-12-19
+CUST0288,Benjamin Garza,35-44,Female,East,Toys,990.95,36.84,2023-10-13
+CUST0289,Andrea Mccoy,65+,Male,Central,Electronics,507.18,16.23,2023-07-30
+CUST0290,Jessica Wilson,55-64,Male,West,Electronics,585.67,77.05,2023-10-13
+CUST0291,Jodi Marshall,45-54,Male,South,Electronics,929.47,84.2,2023-06-08
+CUST0292,Kimberly Graves,55-64,Female,East,Sports,243.63,144.84,2023-07-10
+CUST0293,John Harmon,55-64,Male,Central,Sports,540.08,90.71,2023-05-25
+CUST0294,Linda Bradley,18-24,Male,North,Clothing,315.06,106.61,2023-01-06
+CUST0295,Jamie Davies,55-64,Male,East,Sports,908.15,58.02,2023-10-05
+CUST0296,Sabrina Manning,25-34,Male,North,Sports,193.4,26.85,2023-08-02
+CUST0297,Samantha Oconnor,55-64,Male,West,Electronics,975.05,45.03,2023-10-01
+CUST0298,Nicholas Boone,55-64,Male,Central,Home & Kitchen,350.26,181.34,2023-03-19
+CUST0299,Kimberly Rose,65+,Female,West,Home & Kitchen,104.41,11.48,2023-07-03
+CUST0300,Taylor Brooks,65+,Female,West,Clothing,878.25,56.88,2023-03-05
